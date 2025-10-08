@@ -5,7 +5,7 @@
       "use": "@vercel/static-build",
       "config": {
         "buildCommand": "vite build",
-        "outputDirectory": "client/dist"
+        "outputDirectory": "dist/public"
       }
     }
   ]
